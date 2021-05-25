@@ -1,2 +1,2 @@
 # firmware
-A repository to collecting firmware codes for AirCube.Projects
+A repository contains firmware codes for AirCube.Projects
