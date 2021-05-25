@@ -1,1 +1,1 @@
-# fireware
+# firmware
